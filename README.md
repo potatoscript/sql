@@ -1,2 +1,2 @@
-# sql
-SQL Tutorial
+# [SQL Tutorial](https://github.com/potatoscript/sql/wiki)
+
